@@ -87,7 +87,7 @@ npm run dev     # Start with nodemon
 npm test        # Run test cases
 ```
 ## 👥 Contributors
-![logo](image-3.png)
+![logo](image-4.png)
 <!-- ![Logo](image-2.png)[(https://sad-9dx3.vercel.app/)] -->
 <!-- ```html
 <img src="image-2.png" width="400"> -->
