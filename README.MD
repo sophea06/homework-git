@@ -15,6 +15,7 @@ A Node.js-based application designed to simplify and automate school administrat
 - [Contributing](https://example.com)
 - [Contributors](https://example.com)
 - [License](https://example.com)
+***
 ## ✨ Features
 - Student & Teacher Management
 - Class & Subject Assignment
@@ -22,6 +23,7 @@ A Node.js-based application designed to simplify and automate school administrat
 - Exam Results
 - User Authentication (JWT)
 - Admin Dashboard
+***
 ## 🛠 Tech Stack
 - **Programming Language** : JavaScript (Node.js)
 - **Runtime** : Node.js
@@ -35,6 +37,7 @@ A Node.js-based application designed to simplify and automate school administrat
 ![Button](https://img.shields.io/badge/Express.js-Framework-blue)
 ![Button](https://img.shields.io/badge/MongoDB-Database-green)
 ![Button](https://img.shields.io/badge/License-MIT-blue)
+***
 ##  🚀 Installation
 Clone the project and install dependencies:
 ```python
